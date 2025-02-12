@@ -71,3 +71,4 @@
 0.0.0.0 users.roblox.com
 0.0.0.0 usermoderation.roblox.com
 0.0.0.0 voice.roblox.com
+0.0.0.0 create.roblox.com
